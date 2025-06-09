@@ -35,6 +35,3 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
-
-# Ignore the locals.tf file - it contains the variables for my wan IP Address
-locals.tf
